@@ -7,8 +7,7 @@
 
 - 📫 How to reach me **Email:-sahilchauhan.career@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1Z0oDkb9sGGT8PsmOhdVbmGb-lDm5K5Lm/view?usp=sharing](https://drive.google.com/file/d/1Z0oDkb9sGGT8PsmOhdVbmGb-lDm5K5Lm/view?usp=sharing)
-](https://drive.google.com/file/d/1Q_cjshjooMbNDTqbOwWiPeN6aOpP1OcF/view?usp=sharing)
+- 📄 Know about my experiences-https://drive.google.com/file/d/1Q_cjshjooMbNDTqbOwWiPeN6aOpP1OcF/view?usp=sharing
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/iamchiragchauhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/iamchiragchauhan" height="30" width="40" /></a>
