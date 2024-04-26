@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Analytics & Business Intelligence From Shaheed Sukhdev College of Business Studies**
 
-- 📫 How to reach me **Email:-Chiragchauhanc0000@gmail.com, Linkedin:-https://www.linkedin.com/in/iamchiragchauhan**
+- 📫 How to reach me **Email:-sahilchauhan.career@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Z0oDkb9sGGT8PsmOhdVbmGb-lDm5K5Lm/view?usp=sharing](https://drive.google.com/file/d/1Z0oDkb9sGGT8PsmOhdVbmGb-lDm5K5Lm/view?usp=sharing)
 
