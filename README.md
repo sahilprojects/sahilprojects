@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Data Analyst From Delhi,India</h3>
 <img align="right" alt="Coding" width="400" src=https://sithcomputers.com/wp-content/uploads/2023/03/Data-Science.gif>
 
-- 🌱 I’m currently learning **Data Analytics & Business Intelligence From Shaheed Sukhdev College of Business Studies**
+- 🌱 I have completed my **Data Analytics & Business Intelligence From Shaheed Sukhdev College of Business Studies**
 
 - 📫 How to reach me **Email:-sahilchauhan.career@gmail.com**
 
